@@ -42,6 +42,7 @@ export const Portfolio = () => {
                         href={data.github}
                         className="btn btn-outline-light btn-sm"
                         target="_blank"
+                        rel="noreferrer"
                       >
                         <i className="fab fa-github me-1"></i> GitHub
                       </a>
