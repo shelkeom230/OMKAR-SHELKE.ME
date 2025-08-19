@@ -1,0 +1,33 @@
+/* Project Card Styles */
+.project-card {
+  transition: all 0.3s ease;
+  border: 1px solid rgba(0,0,0,0.1);
+  background: white;
+}
+
+.project-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0,0,0,0.1) !important;
+}
+
+/* Image Overlay */
+.project-overlay {
+  background: rgba(0,0,0,0.7);
+  opacity: 0;
+  transition: all 0.3s ease;
+}
+
+.project-card:hover .project-overlay {
+  opacity: 1;
+}
+
+/* Ensure images cover the space properly */
+.object-fit-cover {
+  object-fit: cover;
+}
+
+/* Project Info Section */
+.project-info {
+  border-top: none;
+  background: white;
+}
