@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/OMKAR-SHELKE.ME/static/css/main.95051765.css",
+    "main.js": "/OMKAR-SHELKE.ME/static/js/main.71c27f83.js",
+    "index.html": "/OMKAR-SHELKE.ME/index.html",
+    "main.95051765.css.map": "/OMKAR-SHELKE.ME/static/css/main.95051765.css.map",
+    "main.71c27f83.js.map": "/OMKAR-SHELKE.ME/static/js/main.71c27f83.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95051765.css",
+    "static/js/main.71c27f83.js"
+  ]
+}
