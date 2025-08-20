@@ -122,7 +122,7 @@ const services = [
 ];
 const dataportfolio = [
   {
-    img: "smartwaste_banner.png",
+    img: "/smartwaste_banner.png",
     title: "SmartWaste",
     description: "AI powered waste management system",
     link: "https://smart-waste-virid.vercel.app/",
